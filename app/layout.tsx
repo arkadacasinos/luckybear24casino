@@ -89,6 +89,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark">
       <head>
+        <meta name="yandex-verification" content="c600a6f4cb5da991" />
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="format-detection" content="telephone=no" />
